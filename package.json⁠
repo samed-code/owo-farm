@@ -1,7 +1,7 @@
 {
   "name": "owo-selfbot-dashboard",
-  "version": "3.0.0",
-  "description": "Real-time OwO Selfbot Dashboard with Socket.io & Love Poetry Mode",
+  "version": "3.1.0",
+  "description": "OwO Selfbot Dashboard",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -10,5 +10,8 @@
     "discord.js-selfbot-v13": "^13.14.3",
     "express": "^4.19.2",
     "socket.io": "^4.7.5"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
